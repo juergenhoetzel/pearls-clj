@@ -1,5 +1,5 @@
-(ns perls-clj.tests.smallest-free-number
-  (:use perls-clj.smallest-free-number)
+(ns pearls-clj.tests.smallest-free-number
+  (:use pearls-clj.smallest-free-number)
   (:use clojure.test))
 
 (deftest find-smallest-free-number []

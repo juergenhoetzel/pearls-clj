@@ -1,4 +1,4 @@
-(ns perls-clj.smallest-free-number
+(ns pearls-clj.smallest-free-number
   (:use clojure.set))
 
 (defn- without [coll s]
